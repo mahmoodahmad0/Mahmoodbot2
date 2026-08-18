@@ -41,14 +41,4 @@ GeoPulse-AI/
 ├── README.md
 └── .gitignore
 
-### 📸 Screenshots
-
-### Start Menu
-![Start Menu](start.png)
-
-### Geopolitical News
-![News](Screenshots/news.png)
-
-### News Analysis
-![Analysis](Screenshots/analysis.png)
 
