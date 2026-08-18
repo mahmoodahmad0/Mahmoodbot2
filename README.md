@@ -40,13 +40,15 @@ GeoPulse-AI/
 ├── main.py
 ├── README.md
 └── .gitignore
-## 📸 Screenshots
+
+### 📸 Screenshots
 
 ### Start Menu
-start.png 
+![Start Menu](start.png)
 
 ### Geopolitical News
-![News](screenshots/news.png)
+![News](Screenshots/news.png)
 
 ### News Analysis
-![Analysis](screenshots/analysis.png)
+![Analysis](Screenshots/analysis.png)
+
