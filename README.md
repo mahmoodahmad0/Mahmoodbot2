@@ -43,7 +43,7 @@ GeoPulse-AI/
 ## 📸 Screenshots
 
 ### Start Menu
-![Start Menu](screenshots/start.png)
+start.png 
 
 ### Geopolitical News
 ![News](screenshots/news.png)
